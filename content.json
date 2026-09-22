@@ -1,28 +1,3 @@
-<!doctype html>
-<html lang="ru">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Мистический сказочный Непал</title>
-
-<meta name="description" content="Мистический сказочный Непал — 8 дней: тибетский квартал Катманду, монастыри, Патан и рассвет над Гималаями. 16–23 ноября 2026.">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Мистический сказочный Непал — 8 дней, ноябрь 2026">
-<meta property="og:description" content="Затеряться в переулках старого города. Встретить рассвет в Гималаях. Восемь дней с прогулками, чаем и временем для себя.">
-<meta property="og:image" content="https://nepal-2026.github.io/images/hero-drug.jpg">
-<meta name="twitter:card" content="summary_large_image">
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Prata&family=Golos+Text:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-<!-- Вся страница рисуется из content.json скриптом app.js -->
-<div id="root"></div>
-
-<script id="data" type="application/json" src-note="тексты страницы лежат в content.json, этот блок подставляется сборкой">
 {
   "title": "Средневековая сказка Непала",
   "brand": "НЕПАЛ",
@@ -349,7 +324,3 @@
   "barNote": "8 дней · ноябрь",
   "barBtn": "Забронировать"
 }
-</script>
-<script src="app.js"></script>
-</body>
-</html>
