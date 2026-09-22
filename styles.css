@@ -475,7 +475,7 @@
   .author-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; }
   .person .photo-slot {
     aspect-ratio: 4 / 5;
-    background: var(--paper-2);
+    background-color: var(--paper-2);
     border: 1px dashed #BFBCAD;
     display: grid;
     place-items: center;
@@ -571,3 +571,4 @@
   .im-zal-monastyr { background-image: url("images/zal-monastyr.jpg"); }
   .im-sluzhba-truby { background-image: url("images/sluzhba-truby.jpg"); }
   .im-patan-rassvet { background-image: url("images/patan-rassvet.jpg"); }
+.im-mushtari { background-image: url("images/mushtari.jpg"); }
