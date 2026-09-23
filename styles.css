@@ -541,18 +541,18 @@
     .book h2 { margin-bottom: 22px; }
   }
 
-  .im-hero-boudha { background-image: url("images/hero-boudha.jpg"); }
-  .im-boudha-vecher { background-image: url("images/boudha-vecher.jpg"); }
-  .im-lampady { background-image: url("images/lampady.jpg"); }
-  .im-svayambhu { background-image: url("images/svayambhu.jpg"); }
-  .im-monahi { background-image: url("images/monahi.jpg"); }
-  .im-holmy { background-image: url("images/holmy.jpg"); }
-  .im-patan { background-image: url("images/patan.jpg"); }
-  .im-keramika { background-image: url("images/keramika.jpg"); }
-  .im-terrasy { background-image: url("images/terrasy.jpg"); }
-  .im-feva { background-image: url("images/feva.jpg"); }
-  .im-gryada { background-image: url("images/gryada.jpg"); }
-  .im-kovry { background-image: url("images/kovry.jpg"); }
+  .im-hero-boudha { background-image: url("images/hero-boudha.jpg?v=09231707"); }
+  .im-boudha-vecher { background-image: url("images/boudha-vecher.jpg?v=09231707"); }
+  .im-lampady { background-image: url("images/lampady.jpg?v=09231707"); }
+  .im-svayambhu { background-image: url("images/svayambhu.jpg?v=09231707"); }
+  .im-monahi { background-image: url("images/monahi.jpg?v=09231707"); }
+  .im-holmy { background-image: url("images/holmy.jpg?v=09231707"); }
+  .im-patan { background-image: url("images/patan.jpg?v=09231707"); }
+  .im-keramika { background-image: url("images/keramika.jpg?v=09231707"); }
+  .im-terrasy { background-image: url("images/terrasy.jpg?v=09231707"); }
+  .im-feva { background-image: url("images/feva.jpg?v=09231707"); }
+  .im-gryada { background-image: url("images/gryada.jpg?v=09231707"); }
+  .im-kovry { background-image: url("images/kovry.jpg?v=09231707"); }
 
   [hidden] { display: none !important; }
   .editbar button {
@@ -562,15 +562,15 @@
   }
   .editbar button[disabled] { opacity: .5; cursor: default; }
   body.editing [data-k]:focus { outline: 2px solid var(--terra); background: rgba(255,255,255,.65); }
-  .im-drug-boudha { background-image: url("images/drug-boudha.jpg"); }
-  .im-drug-durbar { background-image: url("images/drug-durbar.jpg"); }
-  .im-drug-gory { background-image: url("images/drug-gory.jpg"); }
-  .im-hero-drug { background-image: url("images/hero-drug.jpg"); }
-  .im-monah-nit { background-image: url("images/monah-nit.jpg"); }
-  .im-zakat-ktm { background-image: url("images/zakat-ktm.jpg"); }
-  .im-sluzhba { background-image: url("images/sluzhba.jpg"); }
-  .im-zal-monastyr { background-image: url("images/zal-monastyr.jpg"); }
-  .im-sluzhba-truby { background-image: url("images/sluzhba-truby.jpg"); }
-  .im-patan-rassvet { background-image: url("images/patan-rassvet.jpg"); }
-.im-mushtari { background-image: url("images/mushtari.jpg"); }
-.im-lena { background-image: url("images/lena.jpg"); }
+  .im-drug-boudha { background-image: url("images/drug-boudha.jpg?v=09231707"); }
+  .im-drug-durbar { background-image: url("images/drug-durbar.jpg?v=09231707"); }
+  .im-drug-gory { background-image: url("images/drug-gory.jpg?v=09231707"); }
+  .im-hero-drug { background-image: url("images/hero-drug.jpg?v=09231707"); }
+  .im-monah-nit { background-image: url("images/monah-nit.jpg?v=09231707"); }
+  .im-zakat-ktm { background-image: url("images/zakat-ktm.jpg?v=09231707"); }
+  .im-sluzhba { background-image: url("images/sluzhba.jpg?v=09231707"); }
+  .im-zal-monastyr { background-image: url("images/zal-monastyr.jpg?v=09231707"); }
+  .im-sluzhba-truby { background-image: url("images/sluzhba-truby.jpg?v=09231707"); }
+  .im-patan-rassvet { background-image: url("images/patan-rassvet.jpg?v=09231707"); }
+.im-mushtari { background-image: url("images/mushtari.jpg?v=09231707"); }
+.im-lena { background-image: url("images/lena.jpg?v=09231707"); }
